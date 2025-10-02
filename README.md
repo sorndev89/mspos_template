@@ -88,9 +88,7 @@
     ```
     Vite ຈະເປີດໃຊ້ງານ Development Server ສຳລັບ Frontend. ທ່ານສາມາດເຂົ້າເຖິງ Application ໄດ້ຜ່ານ URL ທີ່ Laravel Development Server ໃຫ້ມາ (ເຊັ່ນ: `http://127.0.0.1:8000`).
 
-## ການນຳໃຊ້
 
-(ເພີ່ມລາຍລະອຽດກ່ຽວກັບວິທີການນຳໃຊ້ລະບົບຂອງທ່ານທີ່ນີ້)
 
 ## License
 
